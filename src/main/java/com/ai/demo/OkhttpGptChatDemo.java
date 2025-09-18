@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
-public class GptChatDemo {
+public class OkhttpGptChatDemo {
 
     @Data
     @NoArgsConstructor
